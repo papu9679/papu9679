@@ -36,8 +36,9 @@
 ### 👨‍💻 About Me
 
 - 🇮🇳 I'm based in **West Bengal, India**.
+- 🏡Currently in **Chennai**
 - 🌱 Currently diving deep into **MERN**, focusing on JavaScript, Mongoos, React, Node, Express.
-- 🎯 My goal is to **leverage data to solve real-world problems** and contribute to impactful projects.
+- 🎯 My goal is to **leverage data to solve real-world problems** and contribute to impactful projects with the help of LLMS.
 - 📄 Check out my [**Resume**](https://drive.google.com/file/d/13ZEpaqeLeo0m6n77hG4vNX85pcSeChy9/view?usp=sharing)[**/cv**](https://sayan-adhikary.github.io/CV/)
 - ⚡ Fun fact: _Every dataset has a story — I love uncovering it!_
 
@@ -89,54 +90,20 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="50" height="50" alt="Postman" /><br><b>Postman</b>
     </td>
     <td align="center" width="120" height="100">
-      <img src="./a.svg" width="50" height="50" alt="Pinecone" /><br><b>Pinecone</b>
-    </td>
-    <td align="center" width="120" height="100">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="50" height="50" alt="Gemini API" /><br><b>Gemini API</b>
     </td>
-    <td align="center" width="120" height="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" width="50" height="50" alt="REST APIs" /><br><b>REST APIs</b>
-    </td>
-    <td align="center" width="120" height="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50" alt="MCP" /><br><b>MCP</b>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="120" height="100">
-      <img src="https://cdn.simpleicons.org/nodemailer/339933" width="50" height="50" alt="Nodemailer" /><br><b>Nodemailer</b>
-    </td>
-    <td align="center" width="120" height="100">
-      <img src="https://cdn.simpleicons.org/multer/764ABC" width="50" height="50" alt="Multer" /><br><b>Multer</b>
-    </td>
-    <td align="center" width="120" height="100">
-      <img src="https://cdn.simpleicons.org/cloudinary/3448C5" width="50" height="50" alt="Cloudinary" /><br><b>Cloudinary</b>
-    </td>
-    <td align="center" width="120" height="100">
-      <img src="https://cdn.simpleicons.org/openai/412991" width="50" height="50" alt="LLMs" /><br><b>LLMs</b>
-    </td>
-    <td align="center" width="120" height="100">
-      <img src="https://cdn.simpleicons.org/openai/412991" width="50" height="50" alt="Embeddings" /><br><b>Embeddings</b>
-    </td>
-    <td align="center" width="120" height="100">
+        <td align="center" width="120" height="100">
       <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="50" height="50" alt="RAG" /><br><b>RAG</b>
     </td>
-    <td align="center" width="120" height="100">
-      <img src="https://cdn.simpleicons.org/openai/412991" width="50" height="50" alt="ChatGPT" /><br><b>ChatGPT</b>
-    </td>
-    <td align="center" width="120" height="100">
-      <img src="https://cdn.simpleicons.org/anthropic/D97757" width="50" height="50" alt="Claude" /><br><b>Claude</b>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="120" height="100">
+        <td align="center" width="120" height="100">
       <img src="https://cdn.simpleicons.org/githubcopilot/000000" width="50" height="50" alt="GitHub Copilot" /><br><b>GitHub Copilot</b>
     </td>
-    <td align="center" width="120" height="100">
-      <img src="https://cdn.simpleicons.org/redis/DC382D" width="50" height="50" alt="Vector DB" /><br><b>Vector DB</b>
+        <td align="center" width="120" height="100">
+      <img src="https://cdn.simpleicons.org/cloudinary/3448C5" width="50" height="50" alt="Cloudinary" /><br><b>Cloudinary</b>
     </td>
+
   </tr>
+
 </table>
 
 </div>
@@ -150,7 +117,7 @@
   &nbsp;&nbsp;
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=sayan-adhikary&show_icons=true&theme=radical&hide_border=true&bg_color=0f2027&title_color=4b6cb7&icon_color=4b6cb7&text_color=ffffff&count_private=true" alt="GitHub Stats" /> -->
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayan-adhikary&theme=radical&hide_border=true&background=0f2027&ring=4b6cb7&fire=ffffff&currStreakLabel=4b6cb7&sideLabels=ffffff&dates=aaaaaa" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=papu9679&theme=radical&hide_border=true&background=0f2027&ring=4b6cb7&fire=ffffff&currStreakLabel=4b6cb7&sideLabels=ffffff&dates=aaaaaa" alt="GitHub Streak" />
 </div>
 
 ---
