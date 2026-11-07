@@ -89,7 +89,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="50" height="50" alt="Postman" /><br><b>Postman</b>
     </td>
     <td align="center" width="120" height="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pinecone/pinecone-original.svg" width="50" height="50" alt="Pinecone" /><br><b>Pinecone</b>
+      <img src="./a.svg" width="50" height="50" alt="Pinecone" /><br><b>Pinecone</b>
     </td>
     <td align="center" width="120" height="100">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="50" height="50" alt="Gemini API" /><br><b>Gemini API</b>
