@@ -17,16 +17,16 @@
   <a href="mailto:papu9679429830@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com" target="_blank">
+  <a href="https://www.linkedin.com/in/papu9679" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://x.com" target="_blank">
+  <a href="https://x.com/SayanAd9679" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://leetcode.com/" target="_blank">
+  <a href="https://leetcode.com/u/papu9679" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-  <a href="https://www.geeksforgeeks.org/" target="_blank">
+  <a href="https://www.geeksforgeeks.org/profile/papu9679" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=black" alt="GeeksforGeeks"/>
   </a>
 </div>
@@ -35,26 +35,20 @@
 
 ### 👨‍💻 About Me
 
-- 🇮🇳 I'm based in **West Bengal, India**.  
-- 🌱 Currently diving deep into **MERN**, focusing on JavaScript, Mongoos, React, Node, Express.  
-- 🎯 My goal is to **leverage data to solve real-world problems** and contribute to impactful projects.  
-- 📄 Check out my [**Resume**](https://drive.google.com/file/d/1HvYY7XAPd-1IPegGNVH2UsUSiiyjjcPh/view?usp=sharing)[**/cv**](https://sayan-adhikary.github.io/CV/)
-- ⚡ Fun fact: *Every dataset has a story — I love uncovering it!*  
+- 🇮🇳 I'm based in **West Bengal, India**.
+- 🌱 Currently diving deep into **MERN**, focusing on JavaScript, Mongoos, React, Node, Express.
+- 🎯 My goal is to **leverage data to solve real-world problems** and contribute to impactful projects.
+- 📄 Check out my [**Resume**](https://drive.google.com/file/d/13ZEpaqeLeo0m6n77hG4vNX85pcSeChy9/view?usp=sharing)[**/cv**](https://sayan-adhikary.github.io/CV/)
+- ⚡ Fun fact: _Every dataset has a story — I love uncovering it!_
 
 ---
 
-### 🛠️ My Tech Stack  
+### 🛠️ My Tech Stack
 
 <div align="center">
 
 <table>
   <tr>
-    <td align="center" width="120" height="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" alt="Java" /><br><b>Java</b>
-      <td align="center" width="120" height="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python" /><br><b>Python</b>
-    </td>
-    </td>
     <td align="center" width="120" height="100">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" /><br><b>JavaScript</b>
     </td>
@@ -65,40 +59,82 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50" alt="CSS3" /><br><b>CSS3</b>
     </td>
     <td align="center" width="120" height="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50" alt="React.js" /><br><b>React.js</b>
+    </td>
+    <td align="center" width="120" height="100">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" alt="Node.js" /><br><b>Node.js</b>
     </td>
     <td align="center" width="120" height="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="MySQL" /><br><b>MySQL</b>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50" height="50" alt="Express.js" /><br><b>Express.js</b>
     </td>
     <td align="center" width="120" height="100">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50" alt="Git" /><br><b>Git</b>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50" alt="MongoDB" /><br><b>MongoDB</b>
+    </td>
+    <td align="center" width="120" height="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50" alt="PostgreSQL" /><br><b>PostgreSQL</b>
     </td>
   </tr>
 
   <tr>
-  <td align="center" width="120" height="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50" alt="Jupyter" /><br><b>Jupyter</b>
+    <td align="center" width="120" height="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="SQL" /><br><b>SQL</b>
     </td>
     <td align="center" width="120" height="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas" /><br><b>Pandas</b>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" alt="Git" /><br><b>Git</b>
     </td>
     <td align="center" width="120" height="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy" /><br><b>NumPy</b>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50" alt="GitHub" /><br><b>GitHub</b>
     </td>
     <td align="center" width="120" height="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="50" height="50" alt="Matplotlib" /><br><b>Matplotlib</b>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="50" height="50" alt="Postman" /><br><b>Postman</b>
     </td>
     <td align="center" width="120" height="100">
-      <img src="https://seaborn.pydata.org/_static/logo-mark-lightbg.svg" width="50" height="50" alt="Seaborn" /><br><b>Seaborn</b>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pinecone/pinecone-original.svg" width="50" height="50" alt="Pinecone" /><br><b>Pinecone</b>
     </td>
     <td align="center" width="120" height="100">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50" alt="Scikit-learn" /><br><b>Scikit-learn</b>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="50" height="50" alt="Gemini API" /><br><b>Gemini API</b>
     </td>
     <td align="center" width="120" height="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50" height="50" alt="TensorFlow" /><br><b>TensorFlow</b>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" width="50" height="50" alt="REST APIs" /><br><b>REST APIs</b>
     </td>
     <td align="center" width="120" height="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="50" height="50" alt="PyTorch" /><br><b>PyTorch</b>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50" alt="MCP" /><br><b>MCP</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="120" height="100">
+      <img src="https://cdn.simpleicons.org/nodemailer/339933" width="50" height="50" alt="Nodemailer" /><br><b>Nodemailer</b>
+    </td>
+    <td align="center" width="120" height="100">
+      <img src="https://cdn.simpleicons.org/multer/764ABC" width="50" height="50" alt="Multer" /><br><b>Multer</b>
+    </td>
+    <td align="center" width="120" height="100">
+      <img src="https://cdn.simpleicons.org/cloudinary/3448C5" width="50" height="50" alt="Cloudinary" /><br><b>Cloudinary</b>
+    </td>
+    <td align="center" width="120" height="100">
+      <img src="https://cdn.simpleicons.org/openai/412991" width="50" height="50" alt="LLMs" /><br><b>LLMs</b>
+    </td>
+    <td align="center" width="120" height="100">
+      <img src="https://cdn.simpleicons.org/openai/412991" width="50" height="50" alt="Embeddings" /><br><b>Embeddings</b>
+    </td>
+    <td align="center" width="120" height="100">
+      <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="50" height="50" alt="RAG" /><br><b>RAG</b>
+    </td>
+    <td align="center" width="120" height="100">
+      <img src="https://cdn.simpleicons.org/openai/412991" width="50" height="50" alt="ChatGPT" /><br><b>ChatGPT</b>
+    </td>
+    <td align="center" width="120" height="100">
+      <img src="https://cdn.simpleicons.org/anthropic/D97757" width="50" height="50" alt="Claude" /><br><b>Claude</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="120" height="100">
+      <img src="https://cdn.simpleicons.org/githubcopilot/000000" width="50" height="50" alt="GitHub Copilot" /><br><b>GitHub Copilot</b>
+    </td>
+    <td align="center" width="120" height="100">
+      <img src="https://cdn.simpleicons.org/redis/DC382D" width="50" height="50" alt="Vector DB" /><br><b>Vector DB</b>
     </td>
   </tr>
 </table>
@@ -107,7 +143,7 @@
 
 ---
 
-### 📊 My GitHub Stats  
+### 📊 My GitHub Stats
 
 <div align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayan-adhikary&layout=compact&theme=radical&hide_border=true&bg_color=0f2027&title_color=4b6cb7&text_color=ffffff" alt="Top Languages" /> -->
