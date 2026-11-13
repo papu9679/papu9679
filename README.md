@@ -38,7 +38,7 @@
 - 🇮🇳 I'm based in **Chennai, India**.
 - 🌱 Currently diving deep into **MERN Stack**, focusing on JavaScript, Mongoos, React, Node, Express, GenAI.
 - 🎯 My goal is to **leverage data to solve real-world problems** and contribute to impactful projects with the help of LLMS.
-- 📄 Check out my [**Resume**](https://drive.google.com/file/d/13ZEpaqeLeo0m6n77hG4vNX85pcSeChy9/view?usp=sharing)[**/cv**](https://sayan-adhikary.github.io/CV/)
+- 📄 Check out my [**Resume**](https://drive.google.com/file/d/13ZEpaqeLeo0m6n77hG4vNX85pcSeChy9/view?usp=sharing)
 - ⚡ Fun fact: _Every dataset has a story — I love uncovering it!_
 
 ---
