@@ -26,7 +26,7 @@
   <a href="https://leetcode.com/u/papu9679" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-  <a href="https://www.geeksforgeeks.org/profile/papu9679" target="_blank">
+  <a href="[https://www.geeksforgeeks.org/profile/papu9679](https://www.geeksforgeeks.org/profile/papu9679?tab=activity)" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=black" alt="GeeksforGeeks"/>
   </a>
 </div>
